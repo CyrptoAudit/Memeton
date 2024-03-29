@@ -1,0 +1,2 @@
+# Memeton
+Memecoin,ton
